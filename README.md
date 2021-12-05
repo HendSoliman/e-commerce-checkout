@@ -15,18 +15,19 @@ http://localhost:8080/swagger-ui.html#/
 
 ## Applied Mechanism
 ![alt text](https://github.com/HendSoliman/e-commerce-checkout/blob/main/Checkout.PNG?raw=true)
+Swagger file : https://github.com/HendSoliman/e-commerce-checkout/blob/main/src/main/resources/api-docs.json
+swagger view : https://github.com/HendSoliman/e-commerce-checkout/blob/main/swagger-view.PNG?raw=true
 ## Done
-
+DB Schema at https://github.com/HendSoliman/e-commerce-checkout/blob/a2d5bf825ae7117d551f9f1c9fdd1279209e5460/E-commerce-db.PNG?raw=true
 - [x] Spring Boot Application implement a multilayered architecture - Domain-Driven Design (DDD)
 - [x] RESTful Web Service (CRUD)
 - [x] Apply Design pattern (Builder, Factory , )
 - [x] Logger (Console, File)
 
-## To-Do
-- [ ] Asynchronous API Design - To User reactive streams
+## To-DO
 - [ ] Integrate with a credit card payment tool to deduct the money from the customer credit card. service layer is ready and to integrate with *https://stripe.com/ 
 - [ ] Unit testing for each layer & integration testing for each endpoint.
-- [ ] Logger in each layer 
+
 
 
 ## Running the application locally [Backend]
