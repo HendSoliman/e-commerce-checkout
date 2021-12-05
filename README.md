@@ -66,14 +66,6 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
-## Running the application locally [frontEnd]
-
-```shell
-npm install
-```
-```shell
-npm run serve
-```
 
 ## Documentation
 *  [Swagger](https://swagger.io/) - Documentation & Testing    with common-documents api folder
