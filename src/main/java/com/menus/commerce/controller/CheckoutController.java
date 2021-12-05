@@ -24,7 +24,7 @@ import com.menus.commerce.service.CartService;
 import com.menus.commerce.service.CheckoutService;
 
 @RestController
-@RequestMapping("/order")
+@RequestMapping("api/v1/order")
 public class CheckoutController {
 
 	@Autowired
