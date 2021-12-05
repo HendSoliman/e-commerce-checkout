@@ -2393,3 +2393,4 @@ Caused by: java.lang.ClassNotFoundException: Order
 2021-12-05 04:31:28.411      WARN [Elmenus-ecommerce,,,]     [null] [null] [null]     [null] 25556 --- [nio-8080-exec-2] o.s.web.servlet.PageNotFound             : No mapping for GET /
 2021-12-05 04:31:28.475      WARN [Elmenus-ecommerce,,,]     [null] [null] [null]     [null] 25556 --- [nio-8080-exec-6] o.s.web.servlet.PageNotFound             : No mapping for GET /csrf
 2021-12-05 17:53:02.403      WARN [Elmenus-ecommerce,,,]     [null] [null] [null]     [null] 25556 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12h55m6s507ms5µs400ns).
+2021-12-05 18:15:26.515      INFO [Elmenus-ecommerce,,,]     [null] [null] [null]     [null] 25556 --- [on(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
