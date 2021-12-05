@@ -14,7 +14,7 @@ http://localhost:8080/swagger-ui.html#/
 
 
 ## Applied Mechanism
-![alt text](https://raw.githubusercontent.com/tssovi/grokking-the-object-oriented-design-interview/dad2485667ea8a07b44e2f2804740dfacb130975/media-files/online-shopping-sequence-diagram-3.svg)
+![alt text](https://github.com/HendSoliman/e-commerce-checkout/blob/main/Checkout.PNG?raw=true)
 ## Done
 
 - [x] Spring Boot Application implement a multilayered architecture - Domain-Driven Design (DDD)
